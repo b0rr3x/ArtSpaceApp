@@ -1,15 +1,15 @@
-#Art Space App#
+# Art Space App #
 
 The **Art Space App** is an Android application that allows users to create their own digital art space. It displays an array of artwork or family photos in a curated collection. 
 As part of the Android Basics Training, you’ve learned various concepts, and this app showcases your ability to apply those skills.
 
-##Features##
+## Features ##
 
 Display curated artwork or family photos. In this case I asked Dall-E to have some Great Android Pictures
 Customize the layout using Jetpack Compose composables.
 Modify states based on user interactions (e.g., button taps).
 
-##Prerequisites##
+## Prerequisites ##
 
 Before running the app, ensure you have the following:
 
